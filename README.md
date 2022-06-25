@@ -12,7 +12,7 @@ Challenge completed
 ### `Challenge days`
 
 
-- [ ] `In progress` -  01th of Coding
+- [x] `Done` -  01th of Coding
 - [ ] `In progress` -  02th of Coding
 - [ ] `In progress` -  03th of Coding
 - [ ] `In progress` -  04th of Coding
